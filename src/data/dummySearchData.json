@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "type": "Person",
+    "name": "Sarah Johnson",
+    "status": "Active now",
+    "avatar": "https://randomuser.me/api/portraits/women/45.jpg"
+  },
+  {
+    "id": 2,
+    "type": "Person",
+    "name": "Michael Green",
+    "status": "Last seen 2h ago",
+    "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": 3,
+    "type": "File",
+    "name": "Marketing Strategy 2025.pdf",
+    "info": "Shared by Sarah Johnson",
+    "link": "https://example.com/files/strategy.pdf"
+  },
+  {
+    "id": 4,
+    "type": "File",
+    "name": "Budget-Q3.xlsx",
+    "info": "Updated 3 days ago",
+    "link": "https://example.com/files/budget.xlsx"
+  },
+  {
+    "id": 5,
+    "type": "Folder",
+    "name": "Project Apollo",
+    "info": "12 items",
+    "link": "https://example.com/folders/apollo"
+  },
+  {
+    "id": 6,
+    "type": "Folder",
+    "name": "Design Assets",
+    "info": "8 items",
+    "link": "https://example.com/folders/design"
+  },
+  {
+    "id": 7,
+    "type": "Chat",
+    "name": "Team Standup",
+    "info": "Last message: Tomorrow’s agenda",
+    "link": "https://example.com/chats/standup"
+  },
+  {
+    "id": 8,
+    "type": "Chat",
+    "name": "Client Feedback",
+    "info": "Last message: Please update the proposal",
+    "link": "https://example.com/chats/client-feedback"
+  },
+  {
+    "id": 9,
+    "type": "List",
+    "name": "To-Do: Launch Prep",
+    "info": "5 tasks remaining",
+    "link": "https://example.com/lists/launch-prep"
+  },
+  {
+    "id": 10,
+    "type": "List",
+    "name": "QA Checklist",
+    "info": "2 tasks completed",
+    "link": "https://example.com/lists/qa"
+  }
+]
